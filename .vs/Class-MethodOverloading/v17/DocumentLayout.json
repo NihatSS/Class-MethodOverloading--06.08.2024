@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Class-MethodOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEFEFBD-8412-4B2C-84A0-15B26A79324B}|Class-MethodOverloading\\Class-MethodOverloading.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\class-methodoverloading\\class-methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEFEFBD-8412-4B2C-84A0-15B26A79324B}|Class-MethodOverloading\\Class-MethodOverloading.csproj|solutionrelative:class-methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEFEFBD-8412-4B2C-84A0-15B26A79324B}|Class-MethodOverloading\\Class-MethodOverloading.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\class-methodoverloading\\class-methodoverloading\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEFEFBD-8412-4B2C-84A0-15B26A79324B}|Class-MethodOverloading\\Class-MethodOverloading.csproj|solutionrelative:class-methodoverloading\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEFEFBD-8412-4B2C-84A0-15B26A79324B}|Class-MethodOverloading\\Class-MethodOverloading.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\class-methodoverloading\\class-methodoverloading\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEFEFBD-8412-4B2C-84A0-15B26A79324B}|Class-MethodOverloading\\Class-MethodOverloading.csproj|solutionrelative:class-methodoverloading\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Class-MethodOverloading\\Class-MethodOverloading\\Car.cs",
+              "RelativeDocumentMoniker": "Class-MethodOverloading\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Class-MethodOverloading\\Class-MethodOverloading\\Car.cs",
+              "RelativeToolTip": "Class-MethodOverloading\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:07:00.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Class-MethodOverloading\\Class-MethodOverloading\\Employee.cs",
+              "RelativeDocumentMoniker": "Class-MethodOverloading\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Class-MethodOverloading\\Class-MethodOverloading\\Employee.cs",
+              "RelativeToolTip": "Class-MethodOverloading\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:02:33.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Class-MethodOverloading\\Class-MethodOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "Class-MethodOverloading\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\Class-MethodOverloading\\Class-MethodOverloading\\Program.cs",
+              "RelativeToolTip": "Class-MethodOverloading\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwGUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T18:25:57.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
